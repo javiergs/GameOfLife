@@ -3,7 +3,7 @@ public class Main {
 	Main03 n;
 	Main04 o;
 	Main05 p;
-	public static void main(String[] args) {
+	public static void main(Main02[] args) {
 		System.out.println("Hello World!");
 	}
 }
